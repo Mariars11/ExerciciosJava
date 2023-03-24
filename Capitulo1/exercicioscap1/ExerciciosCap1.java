@@ -1,15 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package exercicioscap1.exercicioscap1;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author maria
- */
 public class ExerciciosCap1 {
 
     public static void main(String[] args) {
