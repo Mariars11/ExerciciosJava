@@ -1,3 +1,9 @@
+/*
+    Projeto 1.1. Este projeto aprimora os Exercícios P1.7 e P1.8. Seu programa deve ler o nome do usuário e então mostrar uma seqüência de duas caixas de diálogo:
+        • Primeiro, uma caixa de diálogo de entrada que pergunta: “O que você quer que eu faça?”
+        • Então uma caixa de diálogo de mensagem que diz: “Sinto muito, (seu nome). Acho que não posso fazer isso.”
+
+*/
 package exercicioscap1.projeto1;
 
 import javax.swing.JOptionPane;
